@@ -23,3 +23,7 @@ The dark gradient background with neon blue and purple tones creates a high-tech
 Interactive buttons such as “Try in AR” and “Enter VR Mode” invite users to explore both technologies.
 
 The layout is responsive, minimal, and visually balanced, ideal for tech companies or educational showcases related to AR/VR.
+
+# Output:
+
+![Image](https://github.com/user-attachments/assets/7babc329-148b-4c5a-8837-cde8186852e4)
